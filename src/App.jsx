@@ -212,7 +212,7 @@ const getMultiProductShippingDiscountPercent = (distinctProductCount) => {
 // https://locationiq.com/register) vì độ chính xác tốt hơn Nominatim gốc.
 // Nếu chưa điền LOCATIONIQ_API_KEY bên dưới, code tự động lùi về Nominatim (OpenStreetMap)
 // miễn phí hoàn toàn, không cần đăng ký gì cả — để bạn vẫn test/dùng được ngay trong lúc chờ key.
-const LOCATIONIQ_API_KEY = 'pk.57430d5d485e0410bd682da5e464f629';
+const LOCATIONIQ_API_KEY = 'noooooooooooooooooooooooooooooooooooo';
 
 const geocodeCache = new Map(); // cache theo địa chỉ đã chuẩn hoá, tránh gọi API lặp lại
 
