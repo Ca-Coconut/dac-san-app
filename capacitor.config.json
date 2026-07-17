@@ -1,0 +1,8 @@
+{
+  "appId": "com.dacsan.app",
+  "appName": "Đặc Sản App",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

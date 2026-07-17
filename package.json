@@ -1,0 +1,41 @@
+{
+  "name": "dac-san-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "server": "json-server --watch db.json --port 5000",
+    "start": "concurrently \"npm run server\" \"npm run dev\""
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/filesystem": "latest",
+    "@capacitor/geolocation": "latest",
+    "axios": "^1.18.1",
+    "firebase": "^12.16.0",
+    "json-server": "^1.0.0-beta.15",
+    "lucide-react": "^1.23.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest",
+    "@capacitor/assets": "latest",
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "concurrently": "^9.2.3",
+    "eslint": "^10.6.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.3",
+    "globals": "^17.7.0",
+    "prettier": "3.9.5",
+    "vite": "^8.1.1"
+  }
+}

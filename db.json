@@ -1,0 +1,230 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mực một nắng Mũi Né",
+      "cat": "haisan",
+      "region": "Mũi Né",
+      "price": 285000,
+      "unit": "500g",
+      "rating": 4.8,
+      "reviews": 132,
+      "origin": "Làng chài Mũi Né, Phan Thiết",
+      "desc": "Mực câu tự nhiên, phơi một nắng theo cách truyền thống của ngư dân Mũi Né, thịt dai ngọt, nướng lên dậy mùi biển.",
+      "stock": true
+    },
+    {
+      "id": 2,
+      "name": "Cá cơm khô Phan Thiết",
+      "cat": "haisan",
+      "region": "Phan Thiết",
+      "price": 120000,
+      "unit": "300g",
+      "rating": 4.6,
+      "reviews": 88,
+      "origin": "Cảng cá Phan Thiết",
+      "desc": "Cá cơm loại nhỏ, sấy khô tự nhiên, giữ trọn vị ngọt để kho tiêu hoặc chiên giòn.",
+      "stock": true
+    },
+    {
+      "id": 3,
+      "name": "Tôm khô Mũi Né loại 1",
+      "cat": "haisan",
+      "region": "Mũi Né",
+      "price": 420000,
+      "unit": "300g",
+      "rating": 4.9,
+      "reviews": 64,
+      "origin": "Vựa tôm Mũi Né",
+      "desc": "Tôm đất tự nhiên, size lớn đều, màu đỏ cam đẹp mắt, ngọt thịt tự nhiên không tẩm hoá chất.",
+      "stock": true
+    },
+    {
+      "id": 4,
+      "name": "Nước mắm nhĩ cá cơm 40 độ đạm",
+      "cat": "nuocmam",
+      "region": "Phan Thiết",
+      "price": 95000,
+      "unit": "500ml",
+      "rating": 4.9,
+      "reviews": 210,
+      "origin": "Làng nghề nước mắm Phan Thiết",
+      "desc": "Ủ chượp 12 tháng trong thùng gỗ theo phương pháp gia truyền, cho ra nước mắm nhĩ đầu vàng sánh, đậm đà.",
+      "stock": true
+    },
+    {
+      "id": 5,
+      "name": "Nước mắm cốt Phan Thiết đặc biệt",
+      "cat": "nuocmam",
+      "region": "Phan Thiết",
+      "price": 150000,
+      "unit": "650ml",
+      "rating": 4.7,
+      "reviews": 97,
+      "origin": "Hàm Tiến, Phan Thiết",
+      "desc": "Dòng nước mắm cốt cao đạm, dành cho người sành ăn, chấm hoặc kho đều dậy mùi thơm đặc trưng.",
+      "stock": true
+    },
+    {
+      "id": 6,
+      "name": "Cà phê Arabica Cầu Đất",
+      "cat": "cafe",
+      "region": "Lâm Đồng",
+      "price": 175000,
+      "unit": "250g",
+      "rating": 4.8,
+      "reviews": 156,
+      "origin": "Cầu Đất, Đà Lạt",
+      "desc": "Trồng ở độ cao 1.500m, rang mộc giữ vị chua thanh trái cây đặc trưng của vùng Cầu Đất.",
+      "stock": true
+    },
+    {
+      "id": 7,
+      "name": "Cà phê Robusta rang mộc",
+      "cat": "cafe",
+      "region": "Lâm Đồng",
+      "price": 130000,
+      "unit": "500g",
+      "rating": 4.6,
+      "reviews": 121,
+      "origin": "Bảo Lộc, Lâm Đồng",
+      "desc": "Hạt Robusta chọn lọc, rang mộc không tẩm bơ đường, vị đậm đắng truyền thống, hợp gu cà phê phin.",
+      "stock": true
+    },
+    {
+      "id": 8,
+      "name": "Trà Ô Long Cầu Đất",
+      "cat": "tra",
+      "region": "Lâm Đồng",
+      "price": 210000,
+      "unit": "200g",
+      "rating": 4.7,
+      "reviews": 74,
+      "origin": "Cầu Đất, Đà Lạt",
+      "desc": "Búp trà một tôm hai lá, lên men bán phần, hương hoa nhẹ, hậu vị ngọt kéo dài.",
+      "stock": true
+    },
+    {
+      "id": 9,
+      "name": "Trà Atiso Đà Lạt sấy khô",
+      "cat": "tra",
+      "region": "Lâm Đồng",
+      "price": 65000,
+      "unit": "200g",
+      "rating": 4.5,
+      "reviews": 143,
+      "origin": "Đà Lạt, Lâm Đồng",
+      "desc": "Hoa atiso sấy lạnh giữ dưỡng chất, thanh nhiệt mát gan, pha trà uống mỗi ngày.",
+      "stock": true
+    },
+    {
+      "id": 10,
+      "name": "Rượu vang Đà Lạt dâu tằm",
+      "cat": "ruouvang",
+      "region": "Lâm Đồng",
+      "price": 145000,
+      "unit": "750ml",
+      "rating": 4.4,
+      "reviews": 58,
+      "origin": "Xưởng vang Đà Lạt",
+      "desc": "Lên men từ dâu tằm Đà Lạt, vị chua ngọt hài hoà, nồng độ nhẹ dễ uống.",
+      "stock": true
+    },
+    {
+      "id": 11,
+      "name": "Dâu tây Đà Lạt (hộp tươi)",
+      "cat": "dautay",
+      "region": "Lâm Đồng",
+      "price": 95000,
+      "unit": "500g",
+      "rating": 4.7,
+      "reviews": 189,
+      "origin": "Nông trại Đà Lạt",
+      "desc": "Dâu tây giống Nhật, hái theo đơn, quả đỏ mọng, đóng hộp giữ lạnh khi giao.",
+      "stock": true
+    },
+    {
+      "id": 12,
+      "name": "Mứt dâu tây Đà Lạt",
+      "cat": "dautay",
+      "region": "Lâm Đồng",
+      "price": 78000,
+      "unit": "280g",
+      "rating": 4.6,
+      "reviews": 92,
+      "origin": "Đà Lạt, Lâm Đồng",
+      "desc": "Nấu thủ công từ dâu tươi và đường mía, không chất bảo quản, ăn kèm bánh mì hoặc sữa chua.",
+      "stock": true
+    },
+    {
+      "id": 13,
+      "name": "Bánh tráng nướng mắm ruốc Mũi Né",
+      "cat": "haisan",
+      "region": "Mũi Né",
+      "price": 55000,
+      "unit": "10 cái",
+      "rating": 4.5,
+      "reviews": 46,
+      "origin": "Mũi Né, Phan Thiết",
+      "desc": "Bánh tráng nướng giòn phết mắm ruốc đặc trưng vùng biển, ăn vặt đưa tay.",
+      "stock": true
+    },
+    {
+      "id": 14,
+      "name": "Nước mắm chay nấm hương",
+      "cat": "nuocmam",
+      "region": "Phan Thiết",
+      "price": 68000,
+      "unit": "500ml",
+      "rating": 4.3,
+      "reviews": 27,
+      "origin": "Phan Thiết",
+      "desc": "Nước chấm chay từ nấm hương, mặn ngọt hài hoà cho người ăn chay.",
+      "stock": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "DH1042",
+      "date": "05/07/2026",
+      "status": "Đã giao",
+      "total": 405000,
+      "items": [1, 6],
+      "customerName": "Nguyễn Thảo",
+      "customerEmail": "thao.nguyen@email.com",
+      "address": "12 Nguyễn Tất Thành, TP. Phan Thiết",
+      "paymentMethod": "COD",
+      "note": ""
+    },
+    {
+      "id": "DH0987",
+      "date": "01/07/2026",
+      "status": "Đang xử lý",
+      "total": 175000,
+      "items": [6],
+      "customerName": "Nguyễn Thảo",
+      "customerEmail": "thao.nguyen@email.com",
+      "address": "12 Nguyễn Tất Thành, TP. Phan Thiết",
+      "paymentMethod": "COD",
+      "note": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Quản trị viên",
+      "email": "admin@vimieng.com",
+      "password": "admin123",
+      "role": "admin",
+      "avatar": "A"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Thảo",
+      "email": "thao.nguyen@email.com",
+      "password": "user123",
+      "role": "user",
+      "avatar": "NT"
+    }
+  ]
+}
